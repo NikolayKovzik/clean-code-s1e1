@@ -59,7 +59,9 @@ body {
 #add-task__input,
 .list-item__checkbox,
 .list-item__input,
-button {
+.add-task__btn,
+.list-item__edit-btn,
+.list-item__delete-btn {
   outline: none;
 }
 
