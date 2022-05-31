@@ -20,7 +20,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .matrix {
     text-align: center;
@@ -136,7 +136,7 @@ body {
   align-items: center;
 }
 
-.list-item>* {
+.list-item > * {
   vertical-align: middle;
 }
 
