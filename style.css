@@ -40,7 +40,7 @@ body {
   flex-grow: 1;
 }
 
-.add-task__inner {
+.task-row-wrapper {
   display: flex;
 }
 
